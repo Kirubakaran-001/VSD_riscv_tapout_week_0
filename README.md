@@ -23,7 +23,7 @@ Step 1 :
     ```
              su
       ```
-![root_access]()
+![root_access](root access command.jpg)
   
   Step 2 :
    ```
