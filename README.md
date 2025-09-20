@@ -23,7 +23,7 @@ Step 1 :
     ```
              su
       ```
-![root_access](root access command.jpg)
+![root_access](https://github.com/Kirubakaran-001/VSD_riscv_tapout_week_0/blob/97a182674454687294cf06e039c25dd3e90a848e/root%20access%20command.jpg)
   
   Step 2 :
    ```
