@@ -49,16 +49,17 @@ Step 1 :
       sudo make install
    ```
 ### Output image :
-  ![yosys]()
+  ![yosys](https://github.com/Kirubakaran-001/VSD_riscv_tapout_week_0/blob/b8bb54641cf459be8a99d7b9b754e821cd430b57/yosys.jpg)
 
 
 4.📂 to install iverilog : 
+
       ```
       sudo apt-get update 
       sudo apt-get install iverilog
       ```
 ### Output image :
-  ![yosys]()
+  ![log](https://github.com/Kirubakaran-001/VSD_riscv_tapout_week_0/blob/b8bb54641cf459be8a99d7b9b754e821cd430b57/iverilog.jpg)
 
 5. 📂 to install gtkwave : 
     ```
@@ -66,7 +67,7 @@ Step 1 :
       sudo apt-get install gtkwave
       ```
 ### Output image :
-  ![yosys]()
+  ![y](https://github.com/Kirubakaran-001/VSD_riscv_tapout_week_0/blob/b8bb54641cf459be8a99d7b9b754e821cd430b57/gtk%20wave.jpg)
 
 
 
