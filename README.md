@@ -35,7 +35,7 @@ Step 1 :
 
 3.📂 to install yosys use this commands 
 
-      ```
+   ```
       sudo apt-get update 
       git clone https://github.com/YosysHQ/yosys.git 
       cd yosys 
@@ -47,7 +47,7 @@ Step 1 :
       make config-gcc 
       make  
       sudo make install
-      ```
+   ```
 ### Output image :
   ![yosys]()
 
